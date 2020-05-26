@@ -1,3 +1,4 @@
-# My Awesome Book
+# MQ Note
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+当前更新极客时间课程笔记
+
